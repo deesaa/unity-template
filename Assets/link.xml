@@ -1,0 +1,5 @@
+<linker>
+       <assembly fullname="Assembly-CSharp" preserve="all"/>
+       <assembly fullname="jdslib" preserve="all"/>
+       <assembly fullname="Leopotam.Ecs" preserve="all"/>
+</linker>
